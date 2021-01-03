@@ -1,0 +1,5 @@
+1 - Study Laravel Jetstream
+2 - Study Inertia.js
+3 - Implement Browser Sync
+4 - Laravel Sanctrum
+5 - docker group bug
